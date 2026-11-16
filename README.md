@@ -20,7 +20,7 @@
 ```git add```
 
 7 commit meddelande:
-```git commit -m "Min ändring```
+```git commit -m "Min ändring"```
 
 8 Skicka ändringar till GitHub:
 ```git push```
